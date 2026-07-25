@@ -1,0 +1,34 @@
+version: 1
+
+defaults:
+    language: neutral
+    compression: none
+
+resources:
+  - name: logo
+    file: assets/logo.png
+    type: png
+    id: 100
+    metadata:
+        Author: ELFR Example
+        License: MIT
+
+  - name: config
+    file: assets/config.json
+    type: json
+
+  - name: font/default
+    file: assets/font/Roboto.ttf
+    type: font
+
+  - name: shader/main
+    file: assets/shaders/main.spv
+    type: shader
+
+  - name: strings
+    language: en-US
+    file: assets/locale/en.json
+
+  - name: strings
+    language: fr-FR
+    file: assets/locale/fr.json
