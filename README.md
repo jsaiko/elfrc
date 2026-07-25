@@ -1,4 +1,4 @@
-# ELFR toolchain: elfrc + libelfr
+# ELFRC toolchain: elfrc + libelfr
 
 An implementation of the **ELF Resource Format (ERF)** — see `docs/` for
 the two governing specifications:
