@@ -1,9 +1,9 @@
 # ELFR toolchain: elfrc + libelfr
 
-An implementation of the **ELFR Resource Format (ERF)** — see `docs/` for
+An implementation of the **ELF Resource Format (ERF)** — see `docs/` for
 the two governing specifications:
 
-- `docs/ELFR Resource Format Specification.md` — the on-disk container format
+- `docs/ELF Resource Format Specification.md` — the on-disk container format
 - `docs/elfrc Compiler Specification.md` — the manifest-driven compiler
 
 This repo provides:

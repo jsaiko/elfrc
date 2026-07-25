@@ -8,7 +8,7 @@
 
 # 1. Introduction
 
-`elfrc` is the reference resource compiler for the **ELFR Resource Format (ERF)**.
+`elfrc` is the reference resource compiler for the **ELF Resource Format (ERF)**.
 
 The compiler reads a project manifest describing a collection of resources, validates the input, constructs an ERF resource container, and emits a relocatable ELF object containing a `.resource` section.
 

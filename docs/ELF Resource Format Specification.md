@@ -1,4 +1,4 @@
-# ELFR Resource Format (ERF) Specification
+# ELF Resource Format (ERF) Specification
 
 **Version:** 1.0 Draft  
 **Status:** Proposed  
@@ -9,7 +9,7 @@
 
 # 1. Introduction
 
-The **ELFR Resource Format (ERF)** defines a standardized method for embedding arbitrary resources into ELF binaries.
+The **ELF Resource Format (ERF)** defines a standardized method for embedding arbitrary resources into ELF binaries.
 
 The format introduces a convention for a dedicated ELF section named:
 
